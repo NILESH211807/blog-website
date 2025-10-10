@@ -111,7 +111,7 @@ const AdminLogin = () => {
                         <p className='text-sm text-left w-full font-semibold my-2'>Admin Test Credentials:</p>
                         <div className='w-full bg-gray-100 px-4 py-2 rounded-md'>
                             <p className='text-sm font-semibold my-1'>Email: admin@gmail.com</p>
-                            <p className='text-sm font-semibold my-1'>Password: admin123</p>
+                            <p className='text-sm font-semibold my-1'>Password: 123456</p>
                         </div>
                     </div>
                     {/* <Link to="/admin" className="text-sm font-semibold text-primary">Go to Homepage</Link> */}
