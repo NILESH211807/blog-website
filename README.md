@@ -104,8 +104,8 @@ The Admin Panel provides powerful tools for managing the platform:
 - **Password:** `test@123`
 
 ### Admin Account
-- **Email:** `test@admin.com`
-- **Password:** `admin@123`
+- **Email:** `admin@gmail.com`
+- **Password:** `123456`
 
 ---
 
